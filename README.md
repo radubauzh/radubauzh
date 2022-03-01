@@ -3,9 +3,9 @@
 I'm studying computer science at the university of zurich and work on different projects. 
 
 - I’m currently working on:
-  🚀 [Swissloop](https://swissloop.ch/) 
-  ⛏ [Swissloop Tunneling](https://swisslooptunneling.ch/) 
-  🤝 [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 
+  - [Swissloop](https://swissloop.ch/) 🚀
+  - [Swissloop Tunneling](https://swisslooptunneling.ch/) ⛏ 
+  - [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 🤝 
   
 - If you are looking for some study material:
   - [Software Testing](https://radubauzh.github.io/Software-Testing/) 📕
@@ -15,14 +15,7 @@ I'm studying computer science at the university of zurich and work on different 
 - 📫 How to reach me: ...
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 
-- I’m currently working on:
-  - [Swissloop](https://swissloop.ch/) 🚀
-  - [Swissloop Tunneling](https://swisslooptunneling.ch/) ⛏ 
-  - [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 🤝 
+
 
