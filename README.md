@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi I'm Rafael 👋🏼
 
-<!--
-**radubauzh/radubauzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying computer science at the university of zurich and work on different projects. 
 
-Here are some ideas to get you started:
+- I’m currently working on:
+  🚀 [Swissloop](https://swissloop.ch/) 
+  ⛏ [Swissloop Tunneling](https://swisslooptunneling.ch/) 
+  🤝 [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 
+  
+- If you are looking for some study material:
+  📕 []()
+  📗 []()
+  📘 []()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
