@@ -22,7 +22,7 @@ I'm studying computer science at the university of zurich and work on different 
 
 
 - foo
-  - bar
+  🚀 [Swissloop](https://swissloop.ch/) 
     - baz
 
 
