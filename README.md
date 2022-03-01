@@ -21,7 +21,9 @@ I'm studying computer science at the university of zurich and work on different 
 | Paragraph   | Text        |
 
 
-| f\|oo  |
-| ------ |
-| b `\|` az |
-| b **\|** im |
+- foo
+  - bar
+    - baz
+
+
+      bim
