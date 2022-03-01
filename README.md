@@ -15,6 +15,7 @@ I'm studying computer science at the university of zurich and work on different 
 - 📫 How to reach me: ...
 
 
-| I’m currently working on: |
+| Syntax      | Description |
 | ----------- | ----------- |
-| 🚀 [Swissloop](https://swissloop.ch/)       | Title       |
+| Header      | Title       |
+| Paragraph   | Text        |
