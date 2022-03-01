@@ -13,3 +13,8 @@ I'm studying computer science at the university of zurich and work on different 
   | 📘 [UML](https://radubauzh.github.io/UML/)
 
 - 📫 How to reach me: ...
+
+
+| I’m currently working on: |
+| ----------- | ----------- |
+| 🚀 [Swissloop](https://swissloop.ch/)       | Title       |
