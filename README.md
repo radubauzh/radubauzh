@@ -1,4 +1,4 @@
-# Hi I'm Rafael 👋🏼
+## Hi I'm Rafael 👋🏼
 
 I'm studying computer science at the university of zurich and work on different projects. 
 
