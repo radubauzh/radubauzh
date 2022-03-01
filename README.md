@@ -8,9 +8,9 @@ I'm studying computer science at the university of zurich and work on different 
   🤝 [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 
   
 - If you are looking for some study material:
-  | 📕 [Software Testing](https://radubauzh.github.io/Software-Testing/)
-  | 📗 [Design Patterns](https://radubauzh.github.io/Design-Patterns/ )
-  | 📘 [UML](https://radubauzh.github.io/UML/)
+  - [Software Testing](https://radubauzh.github.io/Software-Testing/) 📕
+  - [Design Patterns](https://radubauzh.github.io/Design-Patterns/ ) 📗 
+  - [UML](https://radubauzh.github.io/UML/) 📘
 
 - 📫 How to reach me: ...
 
@@ -26,5 +26,3 @@ I'm studying computer science at the university of zurich and work on different 
   - [Swissloop Tunneling](https://swisslooptunneling.ch/) ⛏ 
   - [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/) 🤝 
 
-
-      bim
