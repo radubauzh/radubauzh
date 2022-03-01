@@ -19,3 +19,9 @@ I'm studying computer science at the university of zurich and work on different 
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+
+| abc | def |
+| --- | --- |
+| bar |
+| bar | baz | boo |
