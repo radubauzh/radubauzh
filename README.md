@@ -21,7 +21,7 @@ I'm studying computer science at the university of zurich and work on different 
 | Paragraph   | Text        |
 
 
-| abc | def |
-| --- | --- |
-| bar |
-| bar | baz | boo |
+| f\|oo  |
+| ------ |
+| b `\|` az |
+| b **\|** im |
