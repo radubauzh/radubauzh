@@ -5,7 +5,7 @@ I'm studying computer science at the university of zurich and work on different 
 - I’m currently working on:
   - 🚀 [Swissloop](https://swissloop.ch/)
   - ⛏ [Swissloop Tunneling](https://swisslooptunneling.ch/) 
-  - 🤝 [Swiss Hyperloop Alliance](http://swiss-hyperloop-alliance.ch/)
+  - 🤝 Swiss Hyperloop Alliance
   
 - If you are looking for some study material I made:
   - 📕 [Software Testing](https://radubauzh.github.io/Software-Testing/)
