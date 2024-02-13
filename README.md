@@ -1,6 +1,6 @@
 ## Hi I'm Rafael 👋🏼
 
-I'm studying computer science at the university of zurich and work on different projects. 
+I'm studying artificial intelligence at the University of Zurich and working on different projects.
 
 - I’m currently working on:
   - 🚀 [Swissloop](https://swissloop.ch/)
