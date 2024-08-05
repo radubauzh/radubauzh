@@ -17,6 +17,3 @@ I'm a researcher specializing in artificial intelligence, currently pursuing my 
   - 📙 [Algorithmic Complexity](https://radubauzh.github.io/Algorithmic-complexity/)
 
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/rafael-dubach/)
-
-
-![image](https://github.com/user-attachments/assets/e8c68ad4-6ccc-497e-afe9-62858d1b3518)
